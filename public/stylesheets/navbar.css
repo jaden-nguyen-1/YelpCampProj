@@ -1,0 +1,27 @@
+.loginRegisterLogout {
+    margin-left: 65%
+}
+
+@media (max-width: 1550px) {
+    .loginRegisterLogout {
+        margin-left: 60%
+    }
+} 
+
+@media (max-width: 1350px) {
+    .loginRegisterLogout {
+        margin-left: 55%
+    }
+} 
+
+@media (max-width: 1200px) {
+    .loginRegisterLogout {
+        margin-left: 50%
+    }
+} 
+
+@media (max-width: 1100px) {
+    .loginRegisterLogout {
+        margin-left: 45%
+    }
+} 
